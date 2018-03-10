@@ -6,9 +6,4 @@
                -//---\_____\------------------------lm!--//-->
 
 
-                   Complete Demosystem and Plugins Source
-
-
-.story.
-
-This repository contains all the binaries of the rgba demogroup productions
+ This repository contains all the binaries of the rgba demogroup productions
